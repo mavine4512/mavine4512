@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 ,I'm Mavine Naaman
+
+- 🎉 Experienced in Front-End software Engineer skiled in Javascript, React Native, ReactJs, TypeScript, scss,css3 and HTML
+- 👀 I’m interested in building highly scalable mobile and web applications
+- 💞️ I’m looking to collaborate on building health and financial products targeting all over the world
+- 📫 Lets keep in touch via mavineoyugi@gmail.com
+
+- 👯  Lets make the world a better place, we have the ability
+
+- 👦🏽 Cheers
 
 <!--
 **mavine4512/mavine4512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
