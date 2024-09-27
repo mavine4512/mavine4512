@@ -1,11 +1,11 @@
 ### Hi there 👋 ,I'm Mavine Naaman
 
-- 🎉 Experienced in Front-End Software Engineer skilled in Javascript, React Native, ReactJs, TypeScript, scss,css3 and HTML
+- 🎉 Experienced Software Engineer skilled in Javascript, React Native, ReactJs, Next.js, Node.JS TypeScript, Tailwind CSS, and CSS-in-JS
 - 👀 I’m interested in building highly scalable mobile and web applications
 - 💞️ I’m looking to collaborate on building ETech, health, and financial products targeting all over the world
 - 📫 Let's keep in touch via mavineoyugi@gmail.com
 
-- 👯 Let's make the world a better place, we have the ability and also remember Future Started Yesterday We're Already Late.
+- 👯 Let's make the world a better place, we have the ability and also remember that the Future Started Yesterday We're Already Late.
 
 - 👦🏽 Cheers
 
